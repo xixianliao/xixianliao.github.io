@@ -17,24 +17,19 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018-2019: Chinese-Spanish Interpreter
+  * [Seminars for foreign delegations sponsored by China's Commerce Ministry](https://www.imcanelones.gub.uy/es/noticias/se-realizo-el-seminario-bilateral-de-infraestructura-entre-china-y-uruguay) 
+  * Organizer: Beijing Jiaotong University
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python: Pandas, NLTK
+* Languages:
+  * Chinese Native speaker
+  * English IELTS 7.5
+  * Spanish DELE C1
+
 
 Publications
 ======
