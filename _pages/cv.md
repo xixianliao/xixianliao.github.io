@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Hispanic Philology, Beijing Jiaotong University, 2014-2018
+* M.A. in Theoretical and Applied Linguistics, Pompeu Fabra University, 2018-2019
+* Ph.D in Linguistics, Pompeu Fabra University, 2019-present
 
 Work experience
 ======
