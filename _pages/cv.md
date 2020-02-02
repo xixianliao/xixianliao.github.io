@@ -49,6 +49,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Grants
 ======
-* Currently signed in to 43 different slack teams
+* 2019-present [CSC Scholarship](https://www.csc.edu.cn) awarded by Chinese Scholarship Council
