@@ -13,7 +13,7 @@ Education
 ======
 * B.A. in Hispanic Philology, Beijing Jiaotong University, 2014-2018
 * M.A. in Theoretical and Applied Linguistics, Pompeu Fabra University, 2018-2019
-* Ph.D in Linguistics, Pompeu Fabra University, 2019-present
+* Ph.D. in Linguistics, Pompeu Fabra University, 2019-present
 
 Work experience
 ======
@@ -31,17 +31,13 @@ Skills
   * Spanish DELE C1
 
 
-Publications
+Papers
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+
   
 Teaching
 ======
