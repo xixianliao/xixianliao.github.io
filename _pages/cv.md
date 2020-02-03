@@ -39,12 +39,6 @@ Papers
   
 
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Grants
 ======
 * 2019-present [CSC Scholarship](https://www.csc.edu.cn) awarded by Chinese Scholarship Council
