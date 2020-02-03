@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.A. in Hispanic Philology, Beijing Jiaotong University, 2014-2018
-                              Complutense University of Madrid, 2016-2017
+* B.A. in Hispanic Philology
+  * Beijing Jiaotong University, 2014-2018 
+  * Complutense University of Madrid, 2016-2017
 * M.A. in Theoretical and Applied Linguistics, Pompeu Fabra University, 2018-2019
 * Ph.D. in Linguistics, Pompeu Fabra University, 2019-present
 
