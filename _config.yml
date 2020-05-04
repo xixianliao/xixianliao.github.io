@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Home"
 title_separator          : "-"
 name                     : &name "Xixian Liao"
-description              : &description "PhD student at Pompeu Fabra University"
+description              : &description "Xixian Liao"
 url                      : https://xixianliao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "xixianliao.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xixian Liao"
   avatar           : "xixianliao.jpeg"
-  bio              : "Ph.D. student in Linguistics at Pompeu Fabra University"
+  bio              : "Ph.D. student in Computational Linguistics at Pompeu Fabra University"
   location         : "Barcelona, Spain"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
