@@ -312,5 +312,5 @@ compress_html:
     envs: development
 
 # more dicoverability
-plugins:
+gems:
   - jekyll-seo-tag
