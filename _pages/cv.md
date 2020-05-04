@@ -43,4 +43,5 @@ Papers
   
 Grants
 ======
-* 2019-present [CSC Scholarship](https://www.csc.edu.cn) awarded by Chinese Scholarship Council
+* 2019.9-2020.5 [CSC Scholarship](https://www.csc.edu.cn) awarded by Chinese Scholarship Council
+* 2020.5-present [FI Scholarship](http://agaur.gencat.cat/) awarded by AGAUR (Agency for Management of University and Research Grants)
