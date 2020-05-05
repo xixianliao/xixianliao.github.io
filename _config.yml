@@ -312,4 +312,7 @@ compress_html:
   ignore:
     envs: development
 
+sitemap:
+  path: sitemap.xml
+
 
