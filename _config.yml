@@ -88,7 +88,7 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "xixian.liao@upf.edu"
-  researchgate     : "https://www.researchgate.net/profile/Xixian_Liao"
+  researchgate     : #"https://www.researchgate.net/profile/Xixian_Liao"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         : "liaoxixian"
   foursquare       :
-  github           : "xixianliao"
+  github           : #"xixianliao"
   google_plus      :
   keybase          :
   instagram        : "guauxixian"
@@ -113,9 +113,9 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "https://space.bilibili.com/568826971?spm_id_from=333.788.b_765f7570696e666f.1"
   wikipedia        :
-  bilibili         : "https://space.bilibili.com/568826971?spm_id_from=333.788.b_765f7570696e666f.1"
+
 
 
 # Reading Files
