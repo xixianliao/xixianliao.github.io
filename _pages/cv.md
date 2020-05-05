@@ -19,7 +19,7 @@ Education
 
 Work experience
 ======
-* 2018-2019: Chinese-Spanish Interpreter
+* 2017-2018: Chinese-Spanish Interpreter
   * [Seminars for foreign delegations sponsored by China's Commerce Ministry](https://www.imcanelones.gub.uy/es/noticias/se-realizo-el-seminario-bilateral-de-infraestructura-entre-china-y-uruguay) 
   * Organizer: Beijing Jiaotong University
 
