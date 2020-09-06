@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "Introducció a la Universitat i Recursos"
 collection: teaching
 type: "Undergraduate course"
 venue: "Universitat pompeu fabra, Department of Translation and Language Sciences"
-date: 2020-09
+date: 2020-09-21
 language: Spanish
 location: "Barcelona, Spain"
 ---
 
-Introducció a la Universitat i Recursos
+
 
 Heading 1
 ======
