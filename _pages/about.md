@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to Xixian Liao's homepage.
 
-I'm a PhD student at Pompeu Fabra University under the joint supervision of [Laia Mayol](https://www.upf.edu/web/laia-mayol/) and [Gemma Boleda](https://gboleda.github.io). My current research interests are mainly referring expressions, more specifically, when people choose to use more reduced (lexically shorter and phonologically weaker) forms such as pronouns (e.g. he) instead of more explicit names or descriptions (e.g. Nelson Rolihlahla Mandela; the first post-apartheid president of South Africa).   
+I'm a PhD student at Pompeu Fabra University under the joint supervision of [Gemma Boleda](https://gboleda.github.io) and [Laia Mayol](https://www.upf.edu/web/laia-mayol/). My current research interests are mainly referring expressions, more specifically, when people choose to use more reduced (lexically shorter and phonologically weaker) forms such as pronouns (e.g. he) instead of more explicit names or descriptions (e.g. Nelson Rolihlahla Mandela; the first post-apartheid president of South Africa).   
 
 In my PhD project, I will mainly employ two methodologies: corpus analysis and computational modeling. 
 
