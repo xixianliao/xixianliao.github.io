@@ -10,7 +10,7 @@ redirect_from:
 
 Hello world 👋
 
-I'm a PhD student at [Universitat Pompeu Fabra](https://www.upf.edu/) under the joint supervision of [Gemma Boleda](https://gboleda.github.io) and [Laia Mayol](https://www.upf.edu/web/laia-mayol/). My research currently focuses on understanding the use of referring expressions, mainly through quantitative and computational methods.
+I'm a PhD student at [Universitat Pompeu Fabra](https://www.upf.edu/) under the joint supervision of [Gemma Boleda](https://gboleda.github.io) and [Laia Mayol](https://www.upf.edu/web/laia-mayol/). My PhD research currently focuses on understanding the use of referring expressions, mainly through quantitative and computational methods.
 
 
 
@@ -28,6 +28,8 @@ I'm a PhD student at [Universitat Pompeu Fabra](https://www.upf.edu/) under the 
 
 *Side project*
 ------
+A simple objective before I finish/quit my PhD: create 20 videos, and get 50 subscribers. 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vpiNedo-NzY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
