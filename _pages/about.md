@@ -28,7 +28,7 @@ I'm a PhD student at [Universitat Pompeu Fabra](https://www.upf.edu/) under the 
 
 *Side project*
 ------
-A simple objective before I finish/quit my PhD: create 20 videos, and get 50 subscribers. 
+A side project before I finish/quit my PhD...  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vpiNedo-NzY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
