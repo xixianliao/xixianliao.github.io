@@ -7,4 +7,6 @@ date: 2021-01-11
 location: "Barcelona, Spain"
 ---
 
-
+*Master course*
+-----
+Jan 11th, 2021 - Teaching assistant for _Semàntica i Pragmàtica_. Professor: Martina Wiltschko.
