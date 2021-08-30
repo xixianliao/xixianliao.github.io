@@ -1,7 +1,3 @@
-*Master course*
------
-Jan 11th, 2021 - Teaching assistant for _Semàntica i Pragmàtica_. Professor: Martina Wiltschko.
-
 ---
 title: "Semàntica i Pragmàtica"
 collection: teaching
