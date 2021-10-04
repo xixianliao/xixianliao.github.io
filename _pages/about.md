@@ -18,8 +18,9 @@ I'm a PhD student at [Universitat Pompeu Fabra](https://www.upf.edu/) under the 
 *News*
 ------
 <ul>
-  <li style="color:red"> UPCOMING! September 9th, 2021: Presentation at <a href="https://idsl1.phil-fak.uni-koeln.de/abteilungen/sprachwissenschaft/sinn-und-bedeutung-26">Sinn und Bedeutung 26</a>! </li>
-  <li> August 31st, 2021: Paper accepted at <a href="https://conll.org">CoNLL 2021</a>: <i>Does referent predictability affect the choice of referential form? A computational approach using masked coreference resolution</i>, with Laura Aina, Gemma Boleda and Matthijs Westera</li>
+  <li style="color:red"> UPCOMING! November 11th, 2021: Poster presentation at <a href="https://conll.org">CoNLL 2021</a>! </li>
+  <li> September 9th, 2021: Presentation at <a href="https://idsl1.phil-fak.uni-koeln.de/abteilungen/sprachwissenschaft/sinn-und-bedeutung-26">Sinn und Bedeutung 26</a>! </li>
+  <li> August 31st, 2021: Paper accepted at <a href="https://conll.org">CoNLL 2021</a>: <i>Does referent predictability affect the choice of referential form? A computational approach using masked coreference resolution</i>, with Laura Aina, Gemma Boleda and Matthijs Westera. <a href="https://arxiv.org/abs/2109.13105">[PDF]</a></li>
   <li> August 10th, 2021: Presentation at <a href="https://www.jakubszymanik.com/CoSaQ/events/explanations-semantics/">Workshop on Computational and Experimental Explanations in Semantics and Pragmatics</a> in ESSLLI 2021</li>
   <li> August 6th, 2021: Long presentation at <a href="https://esslli2021.unibz.it/page/session/student_session/">ESSLLI 2021 Student Session</a>:" <i>Coherence-driven predictability and referential form: evidence from English corpus data"</i></li>
   <li> June 17th, 2021: I completed my service as a moderator for <a href="https://www.upf.edu/web/glif/glif-seminars">GLiF seminar</a> in the academic year 2020-2021, together with Sebastian Buchczyk. It was really a great honor to have organized so many inspirational talks. Thanks to all our invited speakers!</li>
