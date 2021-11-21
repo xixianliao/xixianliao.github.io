@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[CV](http://xixianliao.github.io/images/CV.pdf)
+[CV](http://xixianliao.github.io/files/CV.pdf)
 
 
