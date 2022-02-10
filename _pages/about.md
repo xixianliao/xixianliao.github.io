@@ -18,7 +18,7 @@ I'm a PhD student at [Universitat Pompeu Fabra](https://www.upf.edu/) under the 
 *News*
 ------
 <ul>
-  <li style="color:red"> UPCOMING! March 2nd, 2022: Talk at <a href="https://sites.google.com/view/deep-learning-barcelona-2021/home?authuser=0">PSYCHOLINGUISTICS COFFEE: Informal Meeting to Discuss Psycholinguistic Research. University of Edinburgh </a>! </li>
+  <li style="color:red"> UPCOMING! March 2nd, 2022: Talk at <a href="https://blogs.ed.ac.uk/psycholingcoffee/programme-spring-2020/">PSYCHOLINGUISTICS COFFEE: Informal Meeting to Discuss Psycholinguistic Research.</a> University of Edinburgh! </li>
   <li> December 22nd, 2021: Talk at <a href="https://sites.google.com/view/deep-learning-barcelona-2021/home?authuser=0">Deep Learning Barcelona Symposium (DLBCN) 2021</a>! <a href="https://youtu.be/LJHzEM8_6k8">[recording]</a> </li>
   <li> November 12th, 2021: Presentation at <a href="https://www.upf.edu/es/web/traduccio/inici/-/asset_publisher/T7gcoUNytM6c/content/id/251086992/maximized#.YZjg8S8w1pQ">Workshop UR-Ling 2021</a>! </li>
   <li> November 11th, 2021: Poster presentation at <a href="https://conll.org">the SIGNLL Conference on Computational Natural Language Learning (CoNLL) 2021</a>! </li>
