@@ -19,7 +19,7 @@ I'm a PhD student at [Universitat Pompeu Fabra](https://www.upf.edu/) under the 
 ------
 <ul>
   <li style="color:red"> UPCOMING! In Galway, Ireland from 8 to 19 August 2022, I will serve as an <a href="https://2022.esslli.eu/"> ESSLLI Student Session </a>  co-chair (track: Language and Computation)! </li>
-  <li style="color:red"> UPCOMING! April 12th to 14th. We are organizing a retreat for PhD students, again! <a href="https://sites.google.com/view/rest-cl/home?authuser=0"> [REST-CL] </a> </li>
+  <li style="color:red"> UPCOMING! April 11th to 14th. We are organizing a retreat for PhD students, again! <a href="https://sites.google.com/view/rest-cl/home?authuser=0"> [REST-CL] </a> </li>
   <li style="color:red"> Postponed! Sometime between May and July, 2022: Talk at <a href="https://blogs.ed.ac.uk/psycholingcoffee/programme-spring-2020/">PSYCHOLINGUISTICS COFFEE: Informal Meeting to Discuss Psycholinguistic Research.</a> University of Edinburgh! </li>
   <li> December 22nd, 2021: Talk at <a href="https://sites.google.com/view/deep-learning-barcelona-2021/home?authuser=0">Deep Learning Barcelona Symposium (DLBCN) 2021</a>! <a href="https://youtu.be/LJHzEM8_6k8">[recording]</a> </li>
   <li> November 12th, 2021: Presentation at <a href="https://www.upf.edu/es/web/traduccio/inici/-/asset_publisher/T7gcoUNytM6c/content/id/251086992/maximized#.YZjg8S8w1pQ">Workshop UR-Ling 2021</a>! </li>
