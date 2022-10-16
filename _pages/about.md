@@ -42,7 +42,7 @@ A side project before I finish/quit my PhD...
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vpiNedo-NzY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-<a href="https://xixianliao.github.io/html_pages/pagina.html)">pagina link</a>
+<a href="https://xixianliao.github.io/html_pages/pagina.html">pagina link</a>
 
 
 
