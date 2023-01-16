@@ -18,8 +18,8 @@ I'm a PhD student at [Universitat Pompeu Fabra](https://www.upf.edu/) under the 
 *News*
 ------
 <ul>
-  <li> August 8th to 19th: In Galway, Ireland, I served as an <a href="https://2022.esslli.eu/"> ESSLLI Student Session </a>  co-chair (track: Language and Computation)! </li>
-  <li> May 31st to July 31st: research stay at the University of Edinburgh! </li>  
+  <li> August 8th to 19th, 2022: In Galway, Ireland, I served as an <a href="https://2022.esslli.eu/"> ESSLLI Student Session </a>  co-chair (track: Language and Computation)! </li>
+  <li> May 31st to July 31st, 2022: research stay at the University of Edinburgh! </li>  
   <li> June 15th, 2022: Talk at <a href="https://blogs.ed.ac.uk/psycholingcoffee/past-meetings/2021-22/">PSYCHOLINGUISTICS COFFEE: </a> Predictability and pronoun production: an online passage continuation study and a Bayesian meta-analysis (two studies in progress), at the University of Edinburgh! </li>
   <li> April 11th to 14th: We organized a retreat for PhD students in Sant Pere de Vilamajor, Catalunya! <a href="https://sites.google.com/view/rest-cl/home?authuser=0"> [REST-CL] </a> </li>
   <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Our retreat for PhD students in Computational Linguistics REST-CL 2022 ended today. Thank you to our mentors <a href="https://twitter.com/mormaldo?ref_src=twsrc%5Etfw">@mormaldo</a>, <a href="https://twitter.com/CarcassiFausto?ref_src=twsrc%5Etfw">@CarcassiFausto</a>: we are very grateful for your advice. We go home with new friends and research ideas. We look forward to next editions! <a href="https://t.co/u2iGpL9KmS">pic.twitter.com/u2iGpL9KmS</a></p>&mdash; COLTupf (@colt_upf) <a href="https://twitter.com/colt_upf/status/1514656694734835713?ref_src=twsrc%5Etfw">April 14, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
