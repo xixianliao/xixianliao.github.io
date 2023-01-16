@@ -18,7 +18,7 @@ I'm a PhD student at [Universitat Pompeu Fabra](https://www.upf.edu/) under the 
 *News*
 ------
 <ul>
-  <li style="color:red"> UPCOMING! In Galway, Ireland from 8 to 19 August 2022, I will serve as an <a href="https://2022.esslli.eu/"> ESSLLI Student Session </a>  co-chair (track: Language and Computation)! </li>
+  <li> August 8th to 19th: In Galway, Ireland, I served as an <a href="https://2022.esslli.eu/"> ESSLLI Student Session </a>  co-chair (track: Language and Computation)! </li>
   <li> May 31st to July 31st: research stay at the University of Edinburgh! </li>  
   <li> June 15th, 2022: Talk at <a href="https://blogs.ed.ac.uk/psycholingcoffee/past-meetings/2021-22/">PSYCHOLINGUISTICS COFFEE: </a> Predictability and pronoun production: an online passage continuation study and a Bayesian meta-analysis (two studies in progress), at the University of Edinburgh! </li>
   <li> April 11th to 14th: We organized a retreat for PhD students in Sant Pere de Vilamajor, Catalunya! <a href="https://sites.google.com/view/rest-cl/home?authuser=0"> [REST-CL] </a> </li>
