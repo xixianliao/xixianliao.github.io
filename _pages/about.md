@@ -18,6 +18,7 @@ I'm a PhD student at [Universitat Pompeu Fabra](https://www.upf.edu/) under the 
 *News*
 ------
 <ul>
+  <li style="color:Red">Jan 29th, 2023: Abstract accepted at <a href="https://lrdc.pitt.edu/HSP2023/">Human Sentence Processing 2023</a>: <i>Bayesian pronoun interpretation in English corpus passage completions</i>, with Laia Mayol and Hannah Rohde! </li>
   <li> August 8th to 19th, 2022: In Galway, Ireland, I served as an <a href="https://2022.esslli.eu/"> ESSLLI Student Session </a>  co-chair (track: Language and Computation)! </li>
   <li> May 31st to July 31st, 2022: research stay at the University of Edinburgh! </li>  
   <li> June 15th, 2022: Talk at <a href="https://blogs.ed.ac.uk/psycholingcoffee/past-meetings/2021-22/">PSYCHOLINGUISTICS COFFEE: </a> Predictability and pronoun production: an online passage continuation study and a Bayesian meta-analysis (two studies in progress), at the University of Edinburgh! </li>
