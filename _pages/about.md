@@ -18,7 +18,10 @@ I'm a PhD student at [Universitat Pompeu Fabra](https://www.upf.edu/) under the 
 *News*
 ------
 <ul>
-  <li style="color:Red">Jan 29th, 2023: Abstract accepted at <a href="https://lrdc.pitt.edu/HSP2023/">Human Sentence Processing 2023</a>: <i>Bayesian pronoun interpretation in English corpus passage completions</i>, with Laia Mayol and Hannah Rohde! </li>
+  <li>August 24th, 2023: I co-supervised Yunfang Dong's Master's dissertation with <a href="https://homepages.inf.ed.ac.uk/bonnie/">Bonnie Webber</a>. Program: MSc in Speech and Language Processing, School of Philosophy, Psychology & Language Science, University of Edinburgh.</li>
+  <li>June 30th to July 3rd, 2023: We organized a 2nd retreat for PhD students in Tarragona, Spain! <a href="https://sites.google.com/view/rest-cl-2023/home?authuser=0"> [REST-CL 2023] </a></li>
+  <li>March 10th, 2023: Poster presentation at <a href="https://lrdc.pitt.edu/HSP2023/">Human Sentence Processing 2023</a>, at the University of Pittsburgh! </li>
+  <li>Jan 29th, 2023: Abstract accepted at <a href="https://lrdc.pitt.edu/HSP2023/">Human Sentence Processing 2023</a>: <i>Bayesian pronoun interpretation in English corpus passage completions</i>, with Laia Mayol and Hannah Rohde! </li>
   <li> August 8th to 19th, 2022: In Galway, Ireland, I served as an <a href="https://2022.esslli.eu/"> ESSLLI Student Session </a>  co-chair (track: Language and Computation)! </li>
   <li> May 31st to July 31st, 2022: research stay at the University of Edinburgh! </li>  
   <li> June 15th, 2022: Talk at <a href="https://blogs.ed.ac.uk/psycholingcoffee/past-meetings/2021-22/">PSYCHOLINGUISTICS COFFEE: </a> Predictability and pronoun production: an online passage continuation study and a Bayesian meta-analysis (two studies in progress), at the University of Edinburgh! </li>
