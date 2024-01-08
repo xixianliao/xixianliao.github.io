@@ -18,6 +18,7 @@ I'm a PhD student at [Universitat Pompeu Fabra](https://www.upf.edu/) under the 
 *News*
 ------
 <ul>
+  <li>December 17th, 2023: I sumbitted my PhD thesis and my thesis defense will take place on April 29th, 2024. </li>
   <li>December 6th to 7th, 2023: Poster presentation at <a href="https://conll.org">the SIGNLL Conference on Computational Natural Language Learning (CoNLL) 2023</a> with Gemma Boleda in Singapore! </li>
   <li>October 6th, 2023: Paper accepted at <a href="https://conll.org">the SIGNLL Conference on Computational Natural Language Learning (CoNLL) 2023</a>: <i>The Impact of Familiarity on Naming Variation: A Study on Object Naming in Mandarin Chinese</i>, with Yunke He, Jialing Liang, and Gemma Boleda. </li>
   <li>August 24th, 2023: I co-supervised Yunfang Dong's Master's dissertation with <a href="https://homepages.inf.ed.ac.uk/bonnie/">Bonnie Webber</a>. Program: MSc in Speech and Language Processing, School of Philosophy, Psychology & Language Science, University of Edinburgh.</li>
