@@ -18,7 +18,7 @@ I'm a PhD student at [Universitat Pompeu Fabra](https://www.upf.edu/) under the 
 *News*
 ------
 <ul>
-  <li><span style="color: red;">January 18th, 2024: Paper accepted at <a href="https://2024.eacl.org">the 18th Conference of the European Chapter of the Association for Computational Linguistics (EACL) 2024</a>: <i>Syntactic Preposing and Discourse Relations</i>, with Yunfang Dong and Bonnie Webber. And accepted to the main conference! </span> </li>
+  <li><span style="color: red;">January 18th, 2024: Paper accepted at <a href="https://2024.eacl.org">the 18th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2024)</a>: <i>Syntactic Preposing and Discourse Relations</i>, with Yunfang Dong and Bonnie Webber. And accepted to the main conference! </span> </li>
   <li>December 17th, 2023: I sumbitted my PhD thesis and my thesis defense will take place on April 29th, 2024. </li>
   <li>December 6th to 7th, 2023: Poster presentation at <a href="https://conll.org">the SIGNLL Conference on Computational Natural Language Learning (CoNLL) 2023</a> with Gemma Boleda in Singapore! </li>
   <li>October 6th, 2023: Paper accepted at <a href="https://conll.org">the SIGNLL Conference on Computational Natural Language Learning (CoNLL) 2023</a>: <i>The Impact of Familiarity on Naming Variation: A Study on Object Naming in Mandarin Chinese</i>, with Yunke He, Jialing Liang, and Gemma Boleda. </li>
