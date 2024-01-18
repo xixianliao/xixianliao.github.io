@@ -16,11 +16,11 @@ I'm a PhD student at [Universitat Pompeu Fabra](https://www.upf.edu/) under the 
 *I like teaching*
 ------
 
-Figure 1. Assessment by Master's Students in Computational Semantics
+Figure 1. Assessment by Master's Students in Computational Semantics 👇
 
 <img src="https://github.com/xixianliao/xixianliao.github.io/blob/7a273478cc1e7b696a00147061d3dfaaced081c9/files/eval_cs.png" alt="Eval CS Image"> 
 
-Figure 2. Assessment by Undergraduate Students in Information and Communications Technology Course
+Figure 2. Assessment by Undergraduate Students in Information and Communications Technology Course 👇
 
 <img src="https://github.com/xixianliao/xixianliao.github.io/blob/7a273478cc1e7b696a00147061d3dfaaced081c9/files/eval_tic.png" alt="Eval TIC Image">
 
