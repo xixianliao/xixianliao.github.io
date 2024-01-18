@@ -18,7 +18,7 @@ I'm a PhD student at [Universitat Pompeu Fabra](https://www.upf.edu/) under the 
 
 Figure 1. Assessment by Master's Students in Computational Semantics
 
-<img src="[https://github.com/your-username/your-repository/raw/main/path/to/eval_cs.png](https://github.com/xixianliao/xixianliao.github.io/blob/master/files/eval_cs.png
+<img src="[https://github.com/xixianliao/xixianliao.github.io/blob/master/files/eval_cs.png](https://github.com/xixianliao/xixianliao.github.io/blob/master/files/eval_cs.png
 )" alt="Eval CS Image">
 
 Figure 2. Assessment by Undergraduate Students in Information and Communications Technology Course
