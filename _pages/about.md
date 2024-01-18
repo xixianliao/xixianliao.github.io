@@ -13,6 +13,19 @@ Hello world 👋
 I'm a PhD student at [Universitat Pompeu Fabra](https://www.upf.edu/) under the joint supervision of [Gemma Boleda](https://gboleda.github.io) and [Laia Mayol](https://www.upf.edu/web/laia-mayol/). My PhD research currently focuses on understanding the use of referring expressions, mainly through quantitative and computational methods.
 
 
+*I like teaching*
+------
+
+Figure 1. Assessment by Master's Students in Computational Semantics
+
+<img src="[https://github.com/your-username/your-repository/raw/main/path/to/eval_cs.png](https://github.com/xixianliao/xixianliao.github.io/blob/master/files/eval_cs.png
+)" alt="Eval CS Image">
+
+Figure 2. Assessment by Undergraduate Students in Information and Communications Technology Course
+
+<img src="[https://github.com/your-username/your-repository/raw/main/path/to/eval_cs.png](https://github.com/xixianliao/xixianliao.github.io/blob/master/files/eval_tic.png
+)" alt="Eval TIC Image">
+
 
 
 *News*
@@ -42,6 +55,9 @@ I'm a PhD student at [Universitat Pompeu Fabra](https://www.upf.edu/) under the 
   <li> June 6th, 2021: Paper accepted at <a href="https://idsl1.phil-fak.uni-koeln.de/abteilungen/sprachwissenschaft/sinn-und-bedeutung-26">Sinn und Bedeutung 26</a>: <i>Coherence-driven predictability and referential form: evidence from English corpus data</i>, with my supervisors Gemma Boleda and Laia Mayol</li>
   <li> December 17th, 2020: Talk at <a href="https://www.upf.edu/web/traduccio/inici/-/asset_publisher/T7gcoUNytM6c/content/id/240904798/maximized#.YRvNzNMzY-R">GLiF seminar</a>, Barcelona, Spain</li> 
 </ul>
+
+
+
 
 
 *Side project*
