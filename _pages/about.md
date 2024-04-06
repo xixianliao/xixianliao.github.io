@@ -29,6 +29,7 @@ Figure 2. Assessment by Undergraduate Students in Information and Communications
 *News*
 ------
 <ul>
+  <li>April 5th, 2024: Paper accepted at <a href="https://cognitivesciencesociety.org/cogsci-2024/">CogSci 2024</a>: <i>How does grammatical category influence conceptual categorization: The case of Chinese classifiers</i>, with Jialing Liang.</li>
   <li>April 2nd, 2024: I started working as a Research Engineer at <a href="https://www.bsc.es/">the Barcelona Supercomputing Center - Centro Nacional de Supercomputación</a>. </li>
   <li>March 17th - 22nd, 2024: Attended <a href="https://2024.eacl.org">the 18th Conference of the European Chapter of the Association for Computational Linguistics (EACL 2024)</a> in Malta. Our work was presented by Yunfang Dong in both the main conference and <a href="https://sites.google.com/view/codi2024/home"> the 5th Workshop on Computational Approaches to Discourse</a>.</li>
   <li>March 9th, 2024: Xixian Liao, Gemma Boleda, Laia Mayol, Hannah Rohde (accepted). Comparing models of pronoun production and interpretation via observational and experimental evidence. <i>Glossa: a journal of general linguistics</i>. </li>
