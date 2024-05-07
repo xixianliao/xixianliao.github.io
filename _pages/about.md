@@ -29,7 +29,27 @@ Figure 2. Assessment by Undergraduate Students in Information and Communications
 *News*
 ------
 <ul>
-  <li>April 29th, 2024: I'm proud to have defended my PhD thesis with an <b>Excellent cum laude</b>. Many thanks to Professors Andrew Kehler, Jennifer Arnold, and Yufang Hou for their valuable input on my committee, and to my supervisors, Gemma Boleda and Laia Mayol, for their guidance and support throughout these four years! </li>
+  <li>April 29th, 2024: I'm proud to have defended my PhD thesis with an <b>Excellent cum laude</b><b>
+<span style="color: red;">E</span>
+<span style="color: orange;">x</span>
+<span style="color: yellow;">c</span>
+<span style="color: green;">e</span>
+<span style="color: blue;">l</span>
+<span style="color: indigo;">l</span>
+<span style="color: violet;">e</span>
+<span style="color: red;">n</span>
+<span style="color: orange;">t</span>
+<span style="color: yellow;"> </span>
+<span style="color: green;">c</span>
+<span style="color: blue;">u</span>
+<span style="color: indigo;">m</span>
+<span style="color: violet;"> </span>
+<span style="color: red;">l</span>
+<span style="color: orange;">a</span>
+<span style="color: yellow;">u</span>
+<span style="color: green;">d</span>
+<span style="color: blue;">e</span>
+</b>. Many thanks to Professors Andrew Kehler, Jennifer Arnold, and Yufang Hou for their valuable input on my committee, and to my supervisors, Gemma Boleda and Laia Mayol, for their guidance and support throughout these four years! </li>
   <table>
       <tr>
           <td><img src="/files/defense.JPG" alt="PhD defense"></td>
