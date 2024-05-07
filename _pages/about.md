@@ -29,7 +29,7 @@ Figure 2. Assessment by Undergraduate Students in Information and Communications
 *News*
 ------
 <ul>
-  <li>April 29th, 2024: I'm proud to have defended my PhD thesis with an <b>Excellent cum laude</b><b>
+  <li>April 29th, 2024: I'm proud to have defended my PhD thesis with an <b>Excellent cum laude</b>
 <span style="color: red;">E</span>
 <span style="color: orange;">x</span>
 <span style="color: yellow;">c</span>
@@ -49,7 +49,7 @@ Figure 2. Assessment by Undergraduate Students in Information and Communications
 <span style="color: yellow;">u</span>
 <span style="color: green;">d</span>
 <span style="color: blue;">e</span>
-</b>. Many thanks to Professors Andrew Kehler, Jennifer Arnold, and Yufang Hou for their valuable input on my committee, and to my supervisors, Gemma Boleda and Laia Mayol, for their guidance and support throughout these four years! </li>
+. Many thanks to Professors Andrew Kehler, Jennifer Arnold, and Yufang Hou for their valuable input on my committee, and to my supervisors, Gemma Boleda and Laia Mayol, for their guidance and support throughout these four years! </li>
   <table>
       <tr>
           <td><img src="/files/defense.JPG" alt="PhD defense"></td>
