@@ -32,7 +32,7 @@ Figure 2. Assessment by Undergraduate Students in Information and Communications
   <li>April 29th, 2024: I'm proud to have defended my PhD thesis with an <b>
 <span style="color: #FF0000;">E</span>
 <span style="color: #FF7F00;">x</span>
-<span style="color: #FFFF00;">c</span>
+<span style="color: #FFD700;">c</span>
 <span style="color: #00FF00;">e</span>
 <span style="color: #0000FF;">l</span>
 <span style="color: #4B0082;">l</span>
@@ -40,7 +40,7 @@ Figure 2. Assessment by Undergraduate Students in Information and Communications
 <span style="color: #FF0000;">n</span>
 <span style="color: #FF7F00;">t</span>
 &nbsp;&nbsp;
-<span style="color: #FFFF00;">c</span>
+<span style="color: #FFD700;">c</span>
 <span style="color: #00FF00;">u</span>
 <span style="color: #0000FF;">m</span>
 &nbsp;&nbsp;
@@ -48,7 +48,7 @@ Figure 2. Assessment by Undergraduate Students in Information and Communications
 <span style="color: #9400D3;">a</span>
 <span style="color: #FF0000;">u</span>
 <span style="color: #FF7F00;">d</span>
-<span style="color: #FFFF00;">e</span>
+<span style="color: #FFD700;">e</span>
 </b>
 . Many thanks to Professors Andrew Kehler, Jennifer Arnold, and Yufang Hou for their valuable input on my committee, and to my supervisors, Gemma Boleda and Laia Mayol, for their guidance and support throughout these four years! </li>
   <table>
