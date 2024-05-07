@@ -29,6 +29,13 @@ Figure 2. Assessment by Undergraduate Students in Information and Communications
 *News*
 ------
 <ul>
+  <li>April 29th, 2024: I'm proud to have defended my PhD thesis with an **Excellent cum laude**. Many thanks to Professors Andrew Kehler, Jennifer Arnold, and Yufang Hou for their valuable input on my committee, and to my supervisors, Gemma Boleda and Laia Mayol, for their guidance and support throughout these four year! </li>
+  <table>
+      <tr>
+          <td><img src="/files/defense.JPG" alt="PhD defense"></td>
+          <td><img src="/files/hotpot.jpg" alt="Hotpot celebration"></td>
+      </tr>
+  </table>
   <li>April 19th, 2024: I gave a talk at <a href="https://www.upf.edu/web/glif/2024-core-workshop">the CORE workshop</a>. </li>
   <li>April 5th, 2024: Paper accepted at <a href="https://cognitivesciencesociety.org/cogsci-2024/">CogSci 2024</a>: <i>How does grammatical category influence conceptual categorization: The case of Chinese classifiers</i>, with Jialing Liang.</li>
   <li>April 2nd, 2024: I started working as a Research Engineer at <a href="https://www.bsc.es/">the Barcelona Supercomputing Center - Centro Nacional de Supercomputación</a>. </li>
