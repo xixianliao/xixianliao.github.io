@@ -39,11 +39,11 @@ Figure 2. Assessment by Undergraduate Students in Information and Communications
 <span style="color: violet;">e</span>
 <span style="color: red;">n</span>
 <span style="color: orange;">t</span>
-<span style="color: yellow;"> </span>
+<span style="color: yellow;">  </span>
 <span style="color: green;">c</span>
 <span style="color: blue;">u</span>
 <span style="color: indigo;">m</span>
-<span style="color: violet;"> </span>
+<span style="color: violet;">  </span>
 <span style="color: red;">l</span>
 <span style="color: orange;">a</span>
 <span style="color: yellow;">u</span>
