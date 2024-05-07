@@ -10,7 +10,7 @@ redirect_from:
 
 Hello world 👋
 
-I'm a PhD student at [Universitat Pompeu Fabra](https://www.upf.edu/) under the joint supervision of [Gemma Boleda](https://gboleda.github.io) and [Laia Mayol](https://www.upf.edu/web/laia-mayol/). My PhD research currently focuses on understanding the use of referring expressions, mainly through quantitative and computational methods.
+I'm a Research Engineer at the Barcelona Supercomputing Center. I obtained my PhD in Computational Linguistics at [Universitat Pompeu Fabra](https://www.upf.edu/) under the joint supervision of [Gemma Boleda](https://gboleda.github.io) and [Laia Mayol](https://www.upf.edu/web/laia-mayol/). 
 
 
 *I like teaching*
