@@ -29,6 +29,7 @@ Figure 2. Assessment by Undergraduate Students in Information and Communications
 *News*
 ------
 <ul>
+  <li>May 8th: Our article <b><i>Comparing models of pronoun production and interpretation via observational and experimental evidence</i></b> is now available at <a href="https://www.glossa-journal.org/article/id/10884/"><i><b>Glossa: a journal of general linguistics</b></i></a>. </li> 
   <li>April 29th, 2024: I'm proud to have defended my PhD thesis with an <b>
 <span style="color: #FF0000;">E</span>
 <span style="color: #FF7F00;">x</span>
