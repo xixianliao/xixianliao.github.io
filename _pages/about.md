@@ -30,6 +30,8 @@ Figure 2. Assessment by Undergraduate Students in Information and Communications
 ------
 <ul>
   <li> July 20 to July 25, 2025: I will attend the seminar "<a href="https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/25301">Linguistics and Language Models: What Can They Learn from Each Other?</a>" at Schloss Dagstuhl – Leibniz-Zentrum für Informatik in Germany.  </li> 
+  <li> Feb 11th, 2025: I was invited to give a presentation for <a href="https://www.linkedin.com/posts/bioinfo4women_stem-marenostrum5-activity-7295459614639243266-KsaI?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEVixVABx7JOAqT7pV_zbwbqFXiVRqnDPVo">Bioinfo4Women</a>.</li>
+  <li> I will serve as Area Chair for <a href="https://conll.org/">CoNLL 2025</a>. </li>
   <li> Dec 2024: We published our <a href="https://huggingface.co/datasets/projecte-aina/CA-ZH_Parallel_Corpus">Catalan-Chinese dataset</a>, our <a href="https://huggingface.co/projecte-aina/aina-translator-ca-zh">Catalan → Chinese</a> and <a href="https://huggingface.co/projecte-aina/aina-translator-zh-ca">Chinese → Catalan</a> machine translation systems on Hugging Face. Their performance is comparable to Google Translate. </li>
   <li> Sept 20th, 2024: Our paper "Training and Fine-Tuning NMT Models for Low-Resource Languages using Apertium-Based Synthetic Corpora" was accepted by <a href="https://www2.statmt.org/wmt24/">WMT2024</a>. </li> 
   <li> Sept, 2024: I co-supervised two Master's dissertations, by Meinan Liu and Zizhe Wang, with Bonnie Webber at the School of Informatics, University of Edinburgh. </li> 
