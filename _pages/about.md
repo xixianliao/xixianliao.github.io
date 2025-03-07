@@ -31,7 +31,6 @@ Figure 2. Assessment by Undergraduate Students in Information and Communications
 <ul>
   <li> July 20 to July 25, 2025: I will attend the seminar "<a href="https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/25301">Linguistics and Language Models: What Can They Learn from Each Other?</a>" at Schloss Dagstuhl – Leibniz-Zentrum für Informatik in Germany.  </li> 
   <li> Mar 7th, 2025: Our article was accepted by <a href="https://languagelsa.org/index.php/language/index">Language</a>. <b>The role of referent predictability in pronoun production: Insights from a Bayesian meta-analysis</b>. Xixian Liao, Thomas Brochhagen, Gemma Boleda, Laia Mayol. </li>
-  <li> Mar 5th, 2025: I appeared on Spanish TV (Telecinco) for an interview about MWC: <a href="https://www.telecinco.es/television/a-la-carta/20250227/informativos-telecinco-video-completo-miercoles-5-marzo-2025-edicion-mediodia_18_014946409.html">Telecinco</a> (in Spanish, starting at 30:17). </li>
   <li> Mar 1st, 2025: Our paper "MT-LENS: An all-in-one Toolkit for Better Machine Translation Evaluation" was accepted by <a href="https://2025.naacl.org/">NAACL 2025 -- Demo Track</a>.</li>
   <li> Feb 11th, 2025: I was invited to give a presentation for <a href="https://www.linkedin.com/posts/bioinfo4women_stem-marenostrum5-activity-7295459614639243266-KsaI?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEVixVABx7JOAqT7pV_zbwbqFXiVRqnDPVo">Bioinfo4Women</a>.</li>
   <li> I will serve as Area Chair for <a href="https://conll.org/">CoNLL 2025</a>. </li>
