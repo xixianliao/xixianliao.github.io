@@ -29,6 +29,7 @@ Figure 2. Assessment by Undergraduate Students in Information and Communications
 *News*
 ------
 <ul>
+  <li> March 31, 2025: Two papers accepted at <a href="https://mtsummit2025.unige.ch/">Machine Translation Summit 2025</a>: <b>Culture-aware machine translation: the case study of low-resource language pair Catalan-Chinese</b>.Xixian Liao, Carlos Escolano, Audrey Mash, Francesca De Luca Fornaciari, Javier García Gilabert, Miguel Claramunt Argote, Ella Bohman and Maite Melero; <b>Investigating the translation capabilities of Large Language Models trained on parallel data only</b>. Javier García Gilabert, Carlos Escolano, Aleix Sant, Francesca De Luca Fornaciari, Audrey Mash, Xixian Liao and Maite Melero.</li> 
   <li> July 20 to July 25, 2025: I will attend the seminar "<a href="https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/25301">Linguistics and Language Models: What Can They Learn from Each Other?</a>" at Schloss Dagstuhl – Leibniz-Zentrum für Informatik in Germany.  </li> 
   <li> Mar 7th, 2025: Our article was accepted by <a href="https://languagelsa.org/index.php/language/index">Language</a>. <b>The role of referent predictability in pronoun production: Insights from a Bayesian meta-analysis</b>. Xixian Liao, Thomas Brochhagen, Gemma Boleda, Laia Mayol. </li>
   <li> Mar 1st, 2025: Our paper "MT-LENS: An all-in-one Toolkit for Better Machine Translation Evaluation" was accepted by <a href="https://2025.naacl.org/">NAACL 2025 -- Demo Track</a>.</li>
