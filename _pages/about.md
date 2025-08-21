@@ -29,6 +29,7 @@ Figure 2. Assessment by Undergraduate Students in Information and Communications
 *News*
 ------
 <ul>
+  <li>August 20, 2025: <b>"Multi-token Mask-filling and Implicit Discourse Relations"</b>, the master’s thesis of Meinan Liu (supervised by Bonnie Webber and myself), has been accepted to <i>EMNLP Findings</i>. Authors: Meinan Liu, Yunfang Dong, Xixian Liao, and Bonnie Webber.</li>
   <li>Our article <b style="color:red;">The role of referent predictability in pronoun production: Insights from a Bayesian meta-analysis</b> is out on <a href="https://lingbuzz.net/lingbuzz/009164">LingBuzz</a> now. To appear in <i>Language</i>.</li>
   <li> July 20 to July 25, 2025: I attended the seminar "<a href="https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/25301">Linguistics and Language Models: What Can They Learn from Each Other?</a>" at Schloss Dagstuhl – Leibniz-Zentrum für Informatik in Germany.  </li> 
   <li> June 23-27, 2025: We presented our two papers at <a href="https://mtsummit2025.unige.ch/">Machine Translation Summit 2025</a> in Geneva, Switerland. It was wonderful to meet so many amazing researchers in this field and have fun in Geneva together beyond talking about research!</li> 
