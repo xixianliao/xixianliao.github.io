@@ -29,6 +29,7 @@ Figure 2. Assessment by Undergraduate Students in Information and Communications
 *News*
 ------
 <ul>
+  <li>Sept 14, 2025: See you at EMNLP in Suzhou!! Two papers of our team were accepted at <a href="https://www2.statmt.org/wmt25/">WMT 2025</a>: (1) <b>From SALAMANDRA to SALAMANDRATA: BSC Submission for WMT25 General Machine Translation Shared Task</b>. Authors: Javier Garcia Gilabert, Xixian Liao, Severino Da Dalt, Ella Bohman, Audrey Mash, Francesca De Luca Fornaciari, Irene Baucells, Joan Llop, Miguel Claramunt, Carlos Escolano and Maite Melero. (2) <b>Terminology-Constrained Translation from Monolingual Data using GRPO</b>. Authors: Javier Garcia Gilabert, Carlos Escolano, Xixian Liao and Maite Melero. </li>
   <li>August 20, 2025: <b>"Multi-token Mask-filling and Implicit Discourse Relations"</b>, the master’s thesis of Meinan Liu (supervised by Bonnie Webber and myself), has been accepted to <i>EMNLP Findings</i>. Authors: Meinan Liu, Yunfang Dong, Xixian Liao, and Bonnie Webber.</li>
   <li>Our article <b style="color:red;">The role of referent predictability in pronoun production: Insights from a Bayesian meta-analysis</b> is out on <a href="https://lingbuzz.net/lingbuzz/009164">LingBuzz</a> now. To appear in <i>Language</i>.</li>
   <li> July 20 to July 25, 2025: I attended the seminar "<a href="https://www.dagstuhl.de/seminars/seminar-calendar/seminar-details/25301">Linguistics and Language Models: What Can They Learn from Each Other?</a>" at Schloss Dagstuhl – Leibniz-Zentrum für Informatik in Germany.  </li> 
