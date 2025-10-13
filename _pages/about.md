@@ -11,9 +11,13 @@ redirect_from:
 Hello world 👋
 
 I'm a Research Engineer at the Barcelona Supercomputing Center. I obtained my PhD in Computational Linguistics at [Universitat Pompeu Fabra](https://www.upf.edu/) under the joint supervision of [Gemma Boleda](https://gboleda.github.io) and [Laia Mayol](https://www.upf.edu/web/laia-mayol/). 
+ 
+Since the pandemic, I've occasionally been recording guitar and piano performances on my YouTube channel.  
+Feel free to stop by if you enjoy acoustic music 🎸🎹  
+[🎥 @sissian_xixi](https://youtube.com/@sissian_xixi?si=uQbiR-nWGj3jx8PD)
 
 
-*I like teaching*
+*I also like teaching*
 ------
 
 Figure 1. Assessment by Master's Students in Computational Semantics 👇
@@ -107,11 +111,10 @@ Figure 2. Assessment by Undergraduate Students in Information and Communications
 
 
 
-*Side project*
+*Recent cover*
 ------
-A side project during my PhD...  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vpiNedo-NzY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vR7taIGMxpE?si=mYPsPVBv51l9Kc_l" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 
