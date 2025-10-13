@@ -14,7 +14,7 @@ I'm a Research Engineer at the Barcelona Supercomputing Center. I obtained my Ph
  
 Since the pandemic, I've occasionally been recording guitar and piano performances on my YouTube channel.  
 Feel free to stop by if you enjoy acoustic music 🎸🎹  
-[🎥 @sissian_xixi](https://youtube.com/@sissian_xixi?si=uQbiR-nWGj3jx8PD)
+<a href="https://youtube.com/@sissian_xixi?si=uQbiR-nWGj3jx8PD" target="_blank">🎥 @sissian_xixi</a>
 
 
 *I also like teaching*
