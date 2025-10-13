@@ -12,9 +12,7 @@ Hello world 👋
 
 I'm a Research Engineer at the Barcelona Supercomputing Center. I obtained my PhD in Computational Linguistics at [Universitat Pompeu Fabra](https://www.upf.edu/) under the joint supervision of [Gemma Boleda](https://gboleda.github.io) and [Laia Mayol](https://www.upf.edu/web/laia-mayol/). 
  
-Since the pandemic, I've occasionally been recording guitar and piano performances on my YouTube channel.  
-Feel free to stop by if you enjoy acoustic music 🎸🎹  
-<a href="https://youtube.com/@sissian_xixi?si=uQbiR-nWGj3jx8PD" target="_blank">🎥 @sissian_xixi</a>
+Since the pandemic, I've occasionally been recording guitar and piano performances on my YouTube channel <a href="https://youtube.com/@sissian_xixi?si=uQbiR-nWGj3jx8PD" target="_blank">🎥 @sissian_xixi</a>. Feel free to stop by if you enjoy acoustic music 🎸🎹  
 
 
 *I also like teaching*
