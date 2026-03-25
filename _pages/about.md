@@ -32,7 +32,7 @@ Figure 2. Assessment by Undergraduate Students in Information and Communications
 ------
 <ul>
   <li>March, 2026: <b>"Detecting Potentially Under-annotated Explicit Discourse Connectives in the Penn Discourse Treebank (PDTB-3) with LLMs"</b>, the master’s thesis of Yueh Ting Chuang has been accepted to <i>LREC 2026</i>.</li>
-  <li>March 9-10, 2026: I attended Workshop AI-TraLow in University of Alicante.</li>
+  <li>March 9-10, 2026: I attended the AI-TraLow Workshop at the University of Alicante.</li>
   <li>Nov 4-9, 2025: Presented our two papers at EMNLP in Suzhou, China!</li>
   <li>Oct 17-19, 2025: I served as a mentor at <a href="https://innovationbankinghackfest.com/">INNOVATION BANKING HACK FEST 2025</a> in Alicante, Spain.</li>
   <li>Sept 14, 2025: See you at EMNLP in Suzhou!! Two papers of our team were accepted at <a href="https://www2.statmt.org/wmt25/">WMT 2025</a>: (1) <b>From SALAMANDRA to SALAMANDRATA: BSC Submission for WMT25 General Machine Translation Shared Task</b>. Authors: Javier Garcia Gilabert, Xixian Liao, Severino Da Dalt, Ella Bohman, Audrey Mash, Francesca De Luca Fornaciari, Irene Baucells, Joan Llop, Miguel Claramunt, Carlos Escolano and Maite Melero. (2) <b>Terminology-Constrained Translation from Monolingual Data using GRPO</b>. Authors: Javier Garcia Gilabert, Carlos Escolano, Xixian Liao and Maite Melero. </li>
