@@ -31,7 +31,9 @@ Figure 2. Assessment by Undergraduate Students in Information and Communications
 *News*
 ------
 <ul>
-  <li>May, 2026: Our article <b>"The interaction of meanings' similarity and confusability explains regularity in form-meaning mappings at and below the word level"</b> (Brochhagen, T., Liao X., Wright J., & Saldana, C.) has been accepted to <i>Nature Human Behaviour</i>. <a href="https://doi.org/10.31234/osf.io/vh5td_v1"><b>[preprint]</b></a> <a href="https://osf.io/qzaxk/"><b>[OSF project]</b></a></li>
+  <li>I currently serve as a standing reviewer for <a href="https://submissions.cljournal.org/index.php/cljournal/about/editorialTeam">Computational Linguistics</a>.</li>
+  <li>July 2026: I co-supervised Mireia Almena Rodríguez's Master's thesis on Catalan word embeddings, and served on the thesis committee for Wanqiong Zhou's work on form–referent similarity using vision-language models.</li>
+  <li>May, 2026: Our article <b>"The interaction of meanings' similarity and confusability explains regularity in form-meaning mappings at and below the word level"</b> (Brochhagen, T., Liao X., Wright J., & Saldana, C.) has been accepted to <i>Nature Human Behaviour</i>. <a href="https://www.nature.com/articles/s41562-026-02488-3"><b>[article]</b></a> <a href="https://osf.io/qzaxk/"><b>[OSF project]</b></a></li>
   <li>March, 2026: <b>"Detecting Potentially Under-annotated Explicit Discourse Connectives in the Penn Discourse Treebank (PDTB-3) with LLMs"</b>, the master’s thesis of Yueh Ting Chuang has been accepted to <i>LREC 2026</i>.</li>
   <li>March 9-10, 2026: I attended the AI-TraLow Workshop at the University of Alicante.</li>
   <li>Nov 4-9, 2025: Presented our two papers at EMNLP in Suzhou, China!</li>
