@@ -124,7 +124,7 @@ Figure 2. Assessment by Undergraduate Students in Information and Communications
 *Recent cover*
 ------
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vR7taIGMxpE?si=50Om3ufNq-9yHvwL&amp;controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E6tqoYghWX8?si=0F398B7R6XWLtSuF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
